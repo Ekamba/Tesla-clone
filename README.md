@@ -6,9 +6,9 @@
 
 ![Tesla Clone](https://i.ibb.co/RBSpPz9/Screenshot-43.png)
 
-This a Full Stack Application. Using React, Redux-toolkit, Styled-components, and firebase.
-The App is called "Tesla clone".The application is inspired by the Tesla application,
-which sells electric cars, battery energy storage from home to grid-scale, solar panels...
+This is a Full Stack Application. Using React, Redux toolkit, Styled-components, and firebase.
+The App is called Tesla clone.The application is inspired by the Tesla application,
+which sells electric cars, battery energy storage from home to grid-scale, solar panels.
 
 # [Live app here](https://tesla-electric-car.netlify.app/)
 
